@@ -1,0 +1,40 @@
+{
+    "launches": [
+        {
+            "id": 1,
+            "name": "Launch 1 let's go boys",
+            "date": "2020-12-11T11:00:00.000Z"
+        },
+        {
+            "id": 2,
+            "name": "Launch 2",
+            "date": "2020-12-18T11:00:00.000Z"
+        }
+    ],
+    "queuers": [
+        {
+            "id": 1,
+            "launchId": 1,
+            "isActiveQueuer": true,
+            "queueJoinDate": "2020-12-11T11:01:00.000Z",
+            "queueDone": false
+        },
+        {
+            "id": 2,
+            "launchId": 1,
+            "isActiveQueuer": true,
+            "queueJoinDate": "2020-12-11T11:02:00.000Z",
+            "queueDone": false
+        },
+        {
+            "id": 3,
+            "launchId": 1,
+            "isActiveQueuer": true,
+            "queueJoinDate": "2020-12-11T11:03:00.000Z",
+            "queueDone": false
+        }
+    ],
+    "users": {
+        "name": "typicode"
+    }
+}
